@@ -39,7 +39,7 @@
 | **ZoneMaestro** | **88.5** | **84.2** | **92.3** | **88.3** |
 
 <p align="center">
-  <img src="assets/user_study.png" style="max-width: 100%; width: 100%; height: auto; object-fit: contain; display: block; margin: 0 auto;">
+  <img src="assets/user_study.png" width="100%">
 </p>
 
 **Figure B: User study screenshot.** Interface used for human evaluation in Table 1.
