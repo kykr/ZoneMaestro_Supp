@@ -2,20 +2,20 @@
 
 ## Updated Figures
 
-  <img src="assets/main.png" width="100%">
+  <img src="assets/main.png" width="75%">
 <p align="center">
   <b>(a)</b> Task overview: baseline limitations (left), Zone-Graph Reasoning & Arrangement (middle), multi-dimensional quality comparison (right).
 </p>
 
 <table><tr>
-<td width="78%"><img src="assets/training.png" width="100%"></td>
-<td width="22%"><img src="assets/infer.png" width="100%"></td>
+<td width="78%"><img src="assets/training.png" width="75%"></td>
+<td width="22%"><img src="assets/infer.png" width="75%"></td>
 </tr></table>
 <p align="center">
   <b>(b)</b> Training & generation pipeline: Phase I elicits zone reasoning in five steps; Phase II refines via Z-GRPO with three geometry rewards; two alternating cycles (Loop 1–2) balance diversity and compliance.
 </p>
 
-  <img src="assets/data_pipeline.png" width="100%">
+  <img src="assets/data_pipeline.png" width="75%">
 <p align="center">
   <b>(c)</b> Zone-Scene-10K construction: reverse-engineering 3D scans into zone-isolated spatial graphs with typed anchor–satellite edges.
 </p>
