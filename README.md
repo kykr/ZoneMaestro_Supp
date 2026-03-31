@@ -38,6 +38,10 @@
 | i-Design | 39.8 | 46.5 | 63.7 | 50.0 |
 | **ZoneMaestro** | **88.5** | **84.2** | **92.3** | **88.3** |
 
+<img src="assets/user_study.png" width="100%">
+
+**Figure B: User study screenshot.** Interface used for human evaluation in Table 1.
+
 ---
 
 **Table 2: Scene Usability Metrics on SCALE.** Following SceneEval (Tam et al., 2025), computed from 2D occupancy grids at 0.05 m resolution. **NAV**: navigability (largest connected free-floor / total free space). **ACC**: functional-side clearance ratio. **WFR**: walkable floor ratio. **MCW**: minimum corridor width. **REACH**: collision-free path connectivity. **E-NAV** = NAV × max(0, 1 − OOB), where OOB is from Table 1 of the main paper; methods with OOB ≥ 1 receive E-NAV = 0.
